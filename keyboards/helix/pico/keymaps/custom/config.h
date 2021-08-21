@@ -52,4 +52,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // Configure tapping term
 #undef  TAPPING_TERM
-#define TAPPING_TERM 500
+#define TAPPING_TERM 300
