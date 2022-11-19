@@ -46,10 +46,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // @see: https://docs.qmk.fm/#/tap_hold?id=retro-tapping
 #define RETRO_TAPPING
 
-// Enables premissive hold
+// Enables permissive hold
 // @see: https://docs.qmk.fm/#/tap_hold?id=permissive-hold
-#define PERMISSIVE_HOLD
+// #define PERMISSIVE_HOLD
 
 // Configure tapping term
 #undef  TAPPING_TERM
-#define TAPPING_TERM 300
+#define TAPPING_TERM 100
